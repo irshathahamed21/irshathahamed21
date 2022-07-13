@@ -39,7 +39,7 @@
 
 A passionate Full Stack Developer from India
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irshathahamed21](https://git.io/streak-stats)
+
 <!--
 **irshathahamed21/irshathahamed21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
