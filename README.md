@@ -38,6 +38,8 @@
 <!-- You can find my work on my <a href="http://Jigyasa08.github.io/" target="blank">Portfolio</a>. -->
 
 A passionate Full Stack Developer from India
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irshathahamed21](https://git.io/streak-stats)
 <!--
 **irshathahamed21/irshathahamed21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,9 +51,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 P
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irshathahamed21](https://git.io/streak-stats)
+
 -->
 
