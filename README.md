@@ -23,7 +23,8 @@
 <div width = "fit-content">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irshathahamed21&show_icons=true&locale=en&layout=compact" alt="irshathahamed21" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irshathahamed21&show_icons=true&locale=en" alt="irshathahamed21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irshathahamed21&" alt="irshathahamed21" /></p>
+
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irshathahamed21&" alt="irshathahamed21" /></p>
